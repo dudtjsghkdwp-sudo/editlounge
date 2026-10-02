@@ -1,2 +1,2 @@
-# lotto
-로또 생성기
+# editlounge
+편집도우미

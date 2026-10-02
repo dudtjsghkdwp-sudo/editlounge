@@ -1,0 +1,112 @@
+[
+  {
+    "id": "premium-tvcf",
+    "name": "Premium TVCF",
+    "description": "고급스럽고 세련된 프리미엄 광고 룩, 정교한 조명과 깊이 있는 대비",
+    "cameraStyle": "Arri Alexa LF, Panavision Primo lenses, perfectly smooth Steadicam or dolly moves",
+    "lightingStyle": "Soft diffused commercial key with subtle rim lighting and high contrast ratio",
+    "colorStyle": "Sophisticated neutral palette, clean skin tones, subtle Kodak 2383 film print emulation",
+    "compositionStyle": "Strict symmetrical or precise rule of thirds, deliberate negative space",
+    "movementStyle": "Controlled, deliberate, gentle push-in and gliding pan",
+    "promptTemplate": "High-end luxury TV commercial aesthetic, 8k resolution, razor sharp focus, immaculate styling"
+  },
+  {
+    "id": "cinematic-film",
+    "name": "Cinematic Film",
+    "description": "풍부한 서사와 아날로그 감성의 35mm 영화 필름 룩",
+    "cameraStyle": "35mm anamorphic lenses, organic oval bokeh, subtle lens flare",
+    "lightingStyle": "Rembrandt and natural practical lighting, deep cinematic shadows",
+    "colorStyle": "Warm amber highlights, teal shadow undertones, organic 35mm film grain",
+    "compositionStyle": "Immersive cinematic framing, dynamic depth layering with foreground elements",
+    "movementStyle": "Atmospheric handheld or fluid crane sweep",
+    "promptTemplate": "Cinematic movie still, 35mm motion picture film stock, directed by Denis Villeneuve aesthetic"
+  },
+  {
+    "id": "youtube-shorts",
+    "name": "YouTube Shorts",
+    "description": "시선을 사로잡는 빠른 템포와 선명한 색감의 모바일 버티컬 영상",
+    "cameraStyle": "Wide angle 24mm, close-up intimacy, eye-level dynamic tracking",
+    "lightingStyle": "Bright vibrant high-key studio softbox lighting, perfectly visible faces",
+    "colorStyle": "Punchy, saturated vibrant pop tones, clear contrast for mobile screens",
+    "compositionStyle": "Centered 9:16 vertical composition, upper-third focus for text overlay space",
+    "movementStyle": "Dynamic quick snaps, whip pans, energetic tracking",
+    "promptTemplate": "Ultra-vibrant, high engagement viral vertical video style, crystal clear lighting, crisp details"
+  },
+  {
+    "id": "product-commercial",
+    "name": "Product Commercial",
+    "description": "제품의 질감과 디테일을 극대화하는 매크로 및 스튜디오 광고 룩",
+    "cameraStyle": "100mm macro lens, ultra shallow depth of field, rotating turntable angles",
+    "lightingStyle": "Precision studio lighting, rim reflection highlighting metallic/glass contours",
+    "colorStyle": "Clean, pristine, accurate color reproduction, minimalist studio background",
+    "compositionStyle": "Hero product dead-center, dramatic low angles elevating brand status",
+    "movementStyle": "Micro-dolly, elegant slow-motion orbit, rack focus onto brand logo",
+    "promptTemplate": "High-end product commercial photography, immaculate reflections, tactile textures, studio quality"
+  },
+  {
+    "id": "airline-commercial",
+    "name": "Airline Commercial",
+    "description": "여행의 설렘과 개방감, 공항 및 기내의 웅장하고 따뜻한 시네마틱 감성",
+    "cameraStyle": "Wide 28mm-35mm lenses capturing vast airport architecture and passenger emotion",
+    "lightingStyle": "Golden hour sunrise/sunset sunlight streaming through airport glass windows",
+    "colorStyle": "Airy sky blue, gentle golden warmth, clean modern architectural tones",
+    "compositionStyle": "Deep perspective lines leading toward departure gates, hopeful horizon lines",
+    "movementStyle": "Slow majestic push-in, floating steadicam through terminals, gazing out aircraft windows",
+    "promptTemplate": "World-class airline brand film, emotional travel narrative, soaring sense of wonder, cinematic lighting"
+  },
+  {
+    "id": "fantasy",
+    "name": "Fantasy",
+    "description": "신비롭고 몽환적인 비주얼, 환상적인 빛과 초현실적 배경 연출",
+    "cameraStyle": "Dreamy vintage anamorphic lenses, diffused halation around highlights",
+    "lightingStyle": "Ethereal volumetric god rays, bioluminescent glows, dual-tone twilight",
+    "colorStyle": "Mystical emerald, deep violet, glowing gold, otherworldly color harmonies",
+    "compositionStyle": "Mythic scale, dwarfed characters against majestic otherworldly landscapes",
+    "movementStyle": "Sweeping crane shots, mystical slow drifts",
+    "promptTemplate": "Epic fantasy visual masterpiece, ethereal atmosphere, volumetric light beams, poetic magic"
+  },
+  {
+    "id": "documentary",
+    "name": "Documentary",
+    "description": "현장감과 진정성을 살린 자연스러운 빛과 리얼리스틱 연출",
+    "cameraStyle": "50mm natural human eye perspective, organic observational framing",
+    "lightingStyle": "Available natural sunlight, window light, unmanipulated ambient atmosphere",
+    "colorStyle": "Raw, authentic, lifelike natural tones, honest texture and skin realism",
+    "compositionStyle": "Observational, spontaneous rule of thirds, unposed candid moments",
+    "movementStyle": "Subtle organic handheld breathing, observational slow pans",
+    "promptTemplate": "Award-winning documentary cinematography, authentic human truth, natural ambient light, photojournalistic"
+  },
+  {
+    "id": "beauty-commercial",
+    "name": "Beauty Commercial",
+    "description": "피부결과 미세한 표정을 찬란하게 담아내는 글로우 뷰티 룩",
+    "cameraStyle": "85mm portrait telephoto, flattering compression, soft focus perimeter",
+    "lightingStyle": "Giant circular beauty dish, pearlescent backlight, shadowless flawless skin lighting",
+    "colorStyle": "Pastel peach, rosy glow, luminous porcelain highlights, clean crisp whites",
+    "compositionStyle": "Close-up and extreme close-up beauty portraits, balanced symmetry",
+    "movementStyle": "Sensual ultra slow-motion, subtle hair breeze, micro tilts",
+    "promptTemplate": "Luxury beauty cosmetic commercial, glowing radiant skin texture, ethereal soft-focus bokeh, pristine elegance"
+  },
+  {
+    "id": "food-commercial",
+    "name": "Food Commercial",
+    "description": "식욕을 자극하는 윤기, 증기, 생생한 색감과 고속 촬영 연출",
+    "cameraStyle": "100mm Macro probe lens, dramatic tabletop perspectives",
+    "lightingStyle": "Strong backlighting to enhance steam and liquid transparency, warm appetite-inducing key",
+    "colorStyle": "Rich appetizing warm tones, mouth-watering reds, deep golden browns, fresh vibrant greens",
+    "compositionStyle": "Intimate close-ups, top-down flat-lay hero angles, diagonal leading lines",
+    "movementStyle": "High-speed 120fps slow-motion sizzle, dynamic dive toward ingredients",
+    "promptTemplate": "Sensory food commercial film, sizzling textures, rising steam, luscious gloss, mouth-watering cinematography"
+  },
+  {
+    "id": "custom",
+    "name": "Custom",
+    "description": "사용자가 직접 정의하는 독창적인 커스텀 스타일",
+    "cameraStyle": "User customized camera setup",
+    "lightingStyle": "User customized lighting scheme",
+    "colorStyle": "User customized color palette",
+    "compositionStyle": "User customized framing",
+    "movementStyle": "User customized motion",
+    "promptTemplate": "Custom cinematic style tailored by director"
+  }
+]

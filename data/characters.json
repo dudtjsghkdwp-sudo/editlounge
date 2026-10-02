@@ -1,0 +1,32 @@
+[
+  {
+    "id": "char-eastar-01",
+    "name": "민우 (Minwoo)",
+    "gender": "남성",
+    "age": "20대 후반",
+    "appearance": "단정한 짧은 흑발, 맑고 또렷한 눈매, 친근하고 밝은 미소",
+    "hairstyle": "Clean short black taper haircut",
+    "costume": "Beige light linen jacket, white inner tee, navy relaxed slacks",
+    "bodyType": "Slim athletic, 178cm",
+    "facialFeatures": "Warm expressive eyes, approachable smile, defined jawline",
+    "features": "설레는 여행객 이미지, 자연스러운 제스처",
+    "referenceImageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1200&auto=format&fit=crop",
+    "createdAt": "2026-10-01T08:47:30.441Z",
+    "updatedAt": "2026-10-01T08:47:30.441Z"
+  },
+  {
+    "id": "char-sua-02",
+    "name": "수아 (Sua - 셀 애니메이션)",
+    "gender": "여성",
+    "age": "17세 (고교 1년)",
+    "appearance": "둥글고 친근한 인상, 짙은 흑갈색 단발 머리",
+    "hairstyle": "Neat shoulder-length dark brown bob with soft bangs",
+    "costume": "Cream-colored knit cardigan, coral inner top, light blue denim",
+    "bodyType": "Natural teenage proportions",
+    "facialFeatures": "Big expressive eyes, 2-stage anime cel shading",
+    "features": "harness.md 기준 정본 캐릭터",
+    "referenceImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1200&auto=format&fit=crop",
+    "createdAt": "2026-10-01T08:47:30.441Z",
+    "updatedAt": "2026-10-01T08:47:30.441Z"
+  }
+]

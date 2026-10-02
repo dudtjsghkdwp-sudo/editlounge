@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 20% 5%;
+    --foreground: 220 10% 95%;
+  }
+
+  body {
+    background-color: #0b0c10;
+    color: #f1f2f6;
+    font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Segoe UI", Roboto, sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom Scrollbar for NLE look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111217;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #252834;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #373b4d;
+}
+
+/* Glass panel */
+.glass-panel {
+  background: rgba(18, 20, 26, 0.75);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.cinema-card {
+  background: #13151b;
+  border: 1px solid #1f232d;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.cinema-card:hover {
+  border-color: #3b82f6;
+  box-shadow: 0 8px 24px -8px rgba(59, 130, 246, 0.25);
+}
+
+.pulse-glow {
+  box-shadow: 0 0 15px rgba(59, 130, 246, 0.4);
+}

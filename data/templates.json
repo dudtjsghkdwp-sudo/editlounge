@@ -1,0 +1,84 @@
+[
+  {
+    "id": "tpl-30s-tvcf",
+    "name": "30초 프리미엄 TVCF",
+    "description": "브랜드 이미지와 감성을 극대화하는 정통 30초 5씬 상업 광고",
+    "type": "TVCF",
+    "duration": 30,
+    "sceneCount": 5,
+    "aspectRatio": "16:9",
+    "stylePreset": "premium-tvcf",
+    "defaultPromptIdeas": [
+      "도입: 주인공의 매력적인 일상 공간과 시선",
+      "전개: 제품/브랜드와의 첫 만남과 호기심",
+      "클라이맥스: 브랜드 경험이 주는 환희와 디테일",
+      "반전/감동: 시너지 효과와 변화된 분위기",
+      "결말: 브랜드 슬로건 및 여운이 남는 엔딩"
+    ]
+  },
+  {
+    "id": "tpl-15s-shorts",
+    "name": "15초 바이럴 숏폼",
+    "description": "3초 안에 시선을 사로잡는 빠른 템포의 유튜브 쇼츠 / 틱톡 / 릴스",
+    "type": "YouTube Shorts",
+    "duration": 15,
+    "sceneCount": 3,
+    "aspectRatio": "9:16",
+    "stylePreset": "youtube-shorts",
+    "defaultPromptIdeas": [
+      "초반 후킹: 놀라운 비주얼 또는 강렬한 의문 제기",
+      "핵심 가치: 빠른 템포의 비교 또는 핵심 기능 전개",
+      "CTA: 강력한 결론 및 시청자 반응 유도"
+    ]
+  },
+  {
+    "id": "tpl-60s-shorts",
+    "name": "60초 스토리텔링 숏폼",
+    "description": "스토리텔링과 정보 전달을 결합한 심층 버티컬 숏폼",
+    "type": "YouTube Shorts",
+    "duration": 60,
+    "sceneCount": 6,
+    "aspectRatio": "9:16",
+    "stylePreset": "youtube-shorts"
+  },
+  {
+    "id": "tpl-product-comm",
+    "name": "제품 디테일 커머셜",
+    "description": "소재의 질감, 반사광, 매크로 렌즈를 활용한 하이엔드 테크/가전 제품 광고",
+    "type": "제품 광고",
+    "duration": 20,
+    "sceneCount": 4,
+    "aspectRatio": "16:9",
+    "stylePreset": "product-commercial"
+  },
+  {
+    "id": "tpl-airline",
+    "name": "항공사 / 여행 감성 필름",
+    "description": "공항의 웅장함, 비행의 설렘, 목적지의 찬란한 빛을 담은 시네마틱 여행 광고",
+    "type": "브랜드 영상",
+    "duration": 30,
+    "sceneCount": 5,
+    "aspectRatio": "16:9",
+    "stylePreset": "airline-commercial"
+  },
+  {
+    "id": "tpl-ai-contest",
+    "name": "AI 영상 공모전 / 시네마틱",
+    "description": "초현실적 상상력과 미장센을 극대화한 독창적인 AI 아트 필름",
+    "type": "판타지",
+    "duration": 45,
+    "sceneCount": 6,
+    "aspectRatio": "16:9",
+    "stylePreset": "fantasy"
+  },
+  {
+    "id": "tpl-fantasy-epic",
+    "name": "판타지 에픽 트레일러",
+    "description": "신비로운 빛과 장엄한 스케일의 판타지 세계관 티저 트레일러",
+    "type": "판타지",
+    "duration": 30,
+    "sceneCount": 5,
+    "aspectRatio": "16:9",
+    "stylePreset": "fantasy"
+  }
+]

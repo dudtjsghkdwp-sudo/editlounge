@@ -1,0 +1,34 @@
+[
+  {
+    "id": "prompt-01",
+    "title": "시네마틱 슬로우 푸시인 (Arri Alexa LF)",
+    "promptText": "Cinematic 35mm film still, slow steady push-in, shallow depth of field, delicate rim lighting, soft atmospheric haze, Kodak 2383 color grade, photorealistic 8k.",
+    "category": "Camera",
+    "isFavorite": true,
+    "createdAt": "2026-10-01T08:47:30.426Z"
+  },
+  {
+    "id": "prompt-02",
+    "title": "골든 아워 윈도우 라이트 (Golden Hour)",
+    "promptText": "Golden hour sunset sunlight streaming through floor-to-ceiling glass windows, warm amber rim glow, dust motes floating in sunbeams, cinematic soft shadows.",
+    "category": "Lighting",
+    "isFavorite": true,
+    "createdAt": "2026-10-01T08:47:30.427Z"
+  },
+  {
+    "id": "prompt-03",
+    "title": "하이엔드 제품 매크로 (100mm Macro)",
+    "promptText": "Extreme close up 100mm macro shot of sleek product contour, studio rim light reflection on brushed matte metallic finish, razor sharp edge focus, commercial perfection.",
+    "category": "Product",
+    "isFavorite": false,
+    "createdAt": "2026-10-01T08:47:30.427Z"
+  },
+  {
+    "id": "prompt-04",
+    "title": "인물 연속성 락 프롬프트 (Character Consistency)",
+    "promptText": "Same character identity, identical facial structure, short neat black hair, beige light jacket, relaxed authentic expression, consistent morphology across all shots.",
+    "category": "Character",
+    "isFavorite": true,
+    "createdAt": "2026-10-01T08:47:30.427Z"
+  }
+]

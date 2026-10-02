@@ -1,0 +1,30 @@
+[
+  {
+    "id": "prod-eastar-jet",
+    "name": "이스타항공 B737-8 항공기",
+    "brand": "Eastar Jet",
+    "modelName": "Boeing 737-8 Next Gen",
+    "color": "Clean Pearl White with Eastar Signature Red Winglet Star",
+    "material": "Aerospace composite aluminum and glossy enamel",
+    "shape": "Aerodynamic commercial jet airliner",
+    "size": "Commercial twin-engine airliner scale",
+    "keyFeatures": "Red star logo on vertical stabilizer, clean streamlined cabin windows",
+    "referenceImageUrl": "https://images.unsplash.com/photo-1542296332-2e4473faf563?q=80&w=1200&auto=format&fit=crop",
+    "createdAt": "2026-10-01T08:47:30.442Z",
+    "updatedAt": "2026-10-01T08:47:30.442Z"
+  },
+  {
+    "id": "prod-veloa-d1",
+    "name": "VÉLOA D1 프리미엄 식기세척기",
+    "brand": "VÉLOA",
+    "modelName": "D1 Countertop",
+    "color": "Ivory White with Matte Rose-Gold accents",
+    "material": "Ultra-fine matte antibacterial ceramic and tempered glass",
+    "shape": "Rounded rectangular compact countertop",
+    "size": "450mm x 420mm x 460mm",
+    "keyFeatures": "Hidden capacitive touch display, transparent viewing window, ambient interior LED",
+    "referenceImageUrl": "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?q=80&w=1200&auto=format&fit=crop",
+    "createdAt": "2026-10-01T08:47:30.442Z",
+    "updatedAt": "2026-10-01T08:47:30.442Z"
+  }
+]
